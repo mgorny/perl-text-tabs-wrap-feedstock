@@ -10,3 +10,4 @@ noarch_platforms:
   - win_64
 provider:
   osx_arm64: github_actions
+conda_build_tool: rattler-build
