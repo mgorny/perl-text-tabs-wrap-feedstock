@@ -3,19 +3,6 @@ About perl-text-tabs-wrap-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-text-tabs-wrap-feedstock/blob/main/LICENSE.txt)
 
-
-About perl-text-tabs-wrap
--------------------------
-
-Home: https://metacpan.org/dist/Text-Tabs+Wrap
-
-Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
-
-Summary: Expand tabs and do simple line wrapping
-
-About perl-text-tabs-wrap
--------------------------
-
 Home: https://metacpan.org/dist/Text-Tabs+Wrap
 
 Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
