@@ -8,3 +8,5 @@ noarch_platforms:
   - linux_64
   - osx_arm64
   - win_64
+provider:
+  osx_arm64: github_actions
